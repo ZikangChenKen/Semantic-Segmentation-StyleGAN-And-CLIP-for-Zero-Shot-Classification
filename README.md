@@ -1,0 +1,1 @@
+# Semantic-Segmentation-StyleGAN-And-CLIP-for-Zero-Shot-Classification
